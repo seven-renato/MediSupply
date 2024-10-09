@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1XXQlRkNm+Qdt+J/jatZ/IDpBvC2rUpYXdOgHQuRpBw=",
+  "Source": "MediSupply.Api",
+  "BasePath": "_content/MediSupply.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
